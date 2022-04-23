@@ -17,7 +17,7 @@ wget -O install.sh https://raw.githubusercontent.com/php-garlic/BTinstall_6.0/ma
 4.关闭未绑定域名提示页面，防止有人访问未绑定域名直接看出来是用的宝塔面板
 5.关闭活动推荐与在线客服
 ```
-wget -O optimize.sh https://raw.githubusercontent.com/insoxin/BTinstall_6.0/main/optimize.sh && bash optimize.sh
+wget -O optimize.sh https://raw.githubusercontent.com/php-garlic/BTinstall_6.0/main/optimize.sh && bash optimize.sh
 
 ```
 
